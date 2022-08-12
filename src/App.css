@@ -74,7 +74,7 @@
 {
   .card-container {
     grid-template-columns: 1fr;
-    min-width: 450px;
+    min-width: 300px;
   }
 }
 .controls-container {
