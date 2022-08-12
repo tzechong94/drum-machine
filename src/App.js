@@ -60,7 +60,7 @@ let sounds = [
 function App() {
   const [ volume, setVolume ] = useState(50); 
   const [ powerbutton, setPowerbutton] = useState(true);
-  const [ bankbutton, setBankbutton ] = useState(false);
+  const [ bankbutton, setBankbutton ] = useState(true);
   const [ message, setMessage ] = useState("Drum Machine");
 
 
